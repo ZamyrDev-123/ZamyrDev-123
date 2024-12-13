@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZamyrDev-123
 - 👀 I’m interested in game and shell script development
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on open source proyects.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: zackmito2008@gmail.com.
 - 😄 Pronouns: zamito, zamyr, zamyr123, Zamir123...
 - ⚡ Fun fact: i love pizza 🍕.
